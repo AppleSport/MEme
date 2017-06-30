@@ -1,0 +1,25 @@
+
+body {
+    
+   
+    background-image: url("http://blogs.yis.ac.jp/21boweringk/files/2015/11/cropped-html-color-codes-color-tutorials-hero-00e10b1f-25giert.jpg");
+    background-size:cover;
+}
+
+h1 {
+    color: hotpink;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    
+
+}
+
+img {
+    width: 500px;
+    height: 500spx;
+        
+}
